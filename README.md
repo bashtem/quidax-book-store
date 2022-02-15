@@ -1,11 +1,12 @@
 # Quidax Bookstore API Service
 
 ## Installation
-#### Step 1: Extract the zip file 
+#### Step 1: Clone the repository 
 
-Copy "quidax-engineering-be-assessment" directory to your desired location
+
 ```bash
-cd quidax-engineering-be-assessment
+git clone https://github.com/bashtem/quidax-book-store.git
+cd quidax-book-store
 ```
 
 #### Step 2: Setup database
